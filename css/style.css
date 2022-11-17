@@ -28,12 +28,12 @@ table#cart {
 }
 
 table#cart tfoot {
-  background: #eee;
+  background: rgb(255, 255, 255);
 }
 
 table#cart td,
 table input {
-  border: 1px solid #dadada;
+  border: 1px solid #d4d4d4;
 }
 
 table input[type='number'] {
